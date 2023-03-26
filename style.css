@@ -45,8 +45,8 @@ body {
   color: white;
   text-align: center;
 }
-.info p {
-  color: gray;
+.info img {
+  width: 100%;
 }
 .front {
   transform: translateZ(150px);
